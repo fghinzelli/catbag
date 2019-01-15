@@ -1,2 +1,2 @@
 # catbag
-Test repository
+Repository for tests.
